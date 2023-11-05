@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">MLApp</string>
+    <string name="welcome_message">WELCOME TO GREEN DOCTOR</string>
+    <string name="presentation_credits">Presented by Team 05 as a part of Innovathon23</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="user_name">User Name</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="already_a_user">Already a user? Login</string>
+    <string name="login">LOGIN</string>
+    <string name="login1">Login</string>
+    <string name="haven_t_registered_yet_register">Haven\'t registered yet? Register</string>
+    <string name="welcome_to_bhumi">Welcome to BHUMI</string>
+    <string name="welcome_paragraph">
+        By combining cutting-edge technology and data-driven insights, Bhumi empowers farmers with the tools they need to increase crop yield, detect plant diseases, and optimize resource management.
+    </string>
+    <string name="start_capture">Start Capture</string>
+    <string name="start_capture_2">Start Capture</string>
+    <string name="start_capture_3">Start Capture</string>
+    <string name="launch_gallery">Launch Gallery</string>
+    <string name="take_picture">Take Picture</string>
+    <string name="classified_as">Classified as:</string>
+    <string name="card1">Card1</string>
+    <string name="plant_detection">Plant Detection</string>
+    <string name="doctor_your_crop">Doctor your crop</string>
+    <string name="soil_strength">Soil Strength</string>
+    <string name="check_you_farm_quality">Monitor farm Quality</string>
+    <string name="examine_environment">Examine Air</string>
+    <string name="environment">Environment</string>
+    <string name="detect_disease">Detect Disease</string>
+</resources>
